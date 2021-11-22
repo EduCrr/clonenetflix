@@ -1,5 +1,5 @@
 <p align="center">
-Clone baseado no Netflix, usando React e api do Themoviedb.org
+Clone baseado no Netflix, usando React Js e api do Themoviedb.org
 </p>
 
 <div align="center">
